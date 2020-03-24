@@ -1,2 +1,2 @@
-# ope
-Início de desenvolvimento da OPE - Disciplina de Engenharia de Software
+# OPE
+Início de desenvolvimento da OPE - Disciplina de Engenharia de Software.
